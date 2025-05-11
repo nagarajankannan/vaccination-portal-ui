@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Vaccination Portal UI is a frontend application designed to facilitate user interactions with a vaccination management system. It provides features such as user authentication, vaccination scheduling, and status tracking.
+The system will be used by school coordinators to manage student records, schedule vaccination drives, update vaccination statuses, and generate reports. 
 
 ## Technologies Used
 
